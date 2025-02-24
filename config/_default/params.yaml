@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: "Sonal Kumar is a PhD Candidate focusing on the multiomics of Alzheimer's disease."
+    twitter:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2025 Sonal Kumar. This work is licensed under {license}'
+    notice: '© {year} Sonal Kumar. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Adding favicon
+params:
+  favicon: "faviconSK.png"
