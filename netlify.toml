@@ -16,7 +16,7 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx pagefind --source 'public'"
 
 [params]
-  favicon = "faviconSK.png"
+  favicon = "assets/media/faviconSK.png"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
