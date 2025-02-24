@@ -58,7 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Adding favicon
-params:
-  favicon: "faviconSK.png"
